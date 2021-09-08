@@ -41,7 +41,11 @@
                     <pt>PornTop1M List</pt>
                     <sa>Simple Ad List</sa>
                     <st>Simple Tracker List</st>
-                    <sb>Steven Black List</sb>
+                    <sba>Steven Black List (Ads + Malware)</sba>
+                    <sbf>Steven Black List (Fakenews)</sbf>
+                    <sbg>Steven Black List (Gambling)</sbg>
+                    <sbp>Steven Black List (Porn)</sbp>
+                    <sbs>Steven Black List (Social)</sbs>
                     <ws>WindowsSpyBlocker (spy)</ws>
                     <wsu>WindowsSpyBlocker (update)</wsu>
                     <wse>WindowsSpyBlocker (extra)</wse>
